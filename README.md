@@ -27,7 +27,7 @@
 | `Instigator` |  `The Instigator of cause damage (e.g. weapon onwer character)` 
 
 ## Stop Trace
-![image](https://github.com/user-attachments/assets/6acc7bc5-a5a0-436c-98bb-d2a8fded2705)
+![image](https://github.com/user-attachments/assets/a8c27be1-f31f-4c14-ab97-5f2c6cccb482)
 
 ## When actor is hit
 ![image](https://github.com/user-attachments/assets/58e5d192-a5d2-42e2-b10b-4e1c1a5b8682)
