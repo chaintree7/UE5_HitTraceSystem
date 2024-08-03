@@ -7,22 +7,38 @@
 ### Use `Hit Trace Component` can be avoid this problem 
 ![image](https://github.com/user-attachments/assets/03a2607b-74b7-4181-a5c9-11821e5a6017)
 
-![image](https://github.com/user-attachments/assets/38b5e570-7027-4311-b687-597e5c4458ce)
+![image](https://github.com/user-attachments/assets/f7d552e2-a3ae-4049-b1f5-88db90204cdf)
+
 
 
 ![image](https://github.com/user-attachments/assets/0fc10161-c989-46c5-a3de-41790e08df41)
 
 # API
 
-#### Start Trace functions
-![image](https://github.com/user-attachments/assets/7c057494-d126-422b-a8e2-eb3421bdace9)
+## Start Trace functions
+![image](https://github.com/user-attachments/assets/e6cd9782-d370-4152-bfd0-08c9f383bb15)
 
-#### Stop Trace
+| Params| Description |
+| ----------- | ----------- |
+| `TaskName` |  `When using two-handed weapon, you can specify different TaskName to track multiple weapons.` 
+| `Mesh` |  `Weapon mesh` 
+| `BeginSocket` |  `Weapon Socket` 
+| `EndSocket` |  `Weapon Socket` 
+| `Instigator` |  `The Instigator of cause damage (e.g. weapon onwer character)` 
+
+## Stop Trace
 ![image](https://github.com/user-attachments/assets/6acc7bc5-a5a0-436c-98bb-d2a8fded2705)
 
-#### When actor is hit
-![image](https://github.com/user-attachments/assets/0e06ab43-1343-4310-aea3-4d1b91f143f7)
+## When actor is hit
+![image](https://github.com/user-attachments/assets/58e5d192-a5d2-42e2-b10b-4e1c1a5b8682)
 
+| Params| Description |
+| ----------- | ----------- |
+| `TaskName` |  `Current TaskName.` 
+| `Mesh` |  `Current Weapon mesh` 
+| `Instigator` |  `Who caused this damage` 
+| `Actor` |  `Traced Actor` 
+| `HitResult` |  `HitResult Struct` 
 
 # Example
 #### Montage
