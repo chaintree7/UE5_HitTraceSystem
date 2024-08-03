@@ -20,7 +20,7 @@
 #### Stop Trace
 ![image](https://github.com/user-attachments/assets/6acc7bc5-a5a0-436c-98bb-d2a8fded2705)
 
-#### Event On Hit Actor
+#### When actor is hit
 ![image](https://github.com/user-attachments/assets/0e06ab43-1343-4310-aea3-4d1b91f143f7)
 
 
