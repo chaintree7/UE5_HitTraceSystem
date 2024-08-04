@@ -7,7 +7,8 @@
 ### Use `Hit Trace Component` can be avoid this problem 
 ![image](https://github.com/user-attachments/assets/03a2607b-74b7-4181-a5c9-11821e5a6017)
 
-![image](https://github.com/user-attachments/assets/f7d552e2-a3ae-4049-b1f5-88db90204cdf)
+![image](https://github.com/user-attachments/assets/40ade36b-965c-4a82-b00b-d051c686d9eb)
+
 
 
 
