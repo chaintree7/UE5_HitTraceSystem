@@ -21,7 +21,7 @@
 
 | Params| Description |
 | ----------- | ----------- |
-| `TaskName` |  `When using two-handed weapon, you can specify different TaskName to track multiple weapons.` 
+| `TaskName` |  `When using dual weapon, you can specify different TaskName to track multiple weapons.` 
 | `Mesh` |  `Weapon mesh` 
 | `BeginSocket` |  `Weapon Socket` 
 | `EndSocket` |  `Weapon Socket` 
