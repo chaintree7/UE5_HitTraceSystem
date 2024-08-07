@@ -1,3 +1,6 @@
+# Unreal Marketplace Version
+#### Marketplace rules don't allow blueprints as free assets, so the MP version price is set to $5
+
 # Hit Trace System
 ### When using the default Trace, you may lose the hit target when animation speed is too fast or FPS is unstable. Like this
 ![image](https://github.com/user-attachments/assets/7782ebb2-1b6e-486a-9636-2ed55850a0a6)
