@@ -1,5 +1,6 @@
 # Unreal Marketplace Version
 #### Marketplace rules don't allow blueprints as free assets, so the MP version price is set to $5
+#### https://www.unrealengine.com/marketplace/en-US/product/event-driven-hit-trace-system
 
 # Hit Trace System
 ### When using the default Trace, you may lose the hit target when animation speed is too fast or FPS is unstable. Like this
