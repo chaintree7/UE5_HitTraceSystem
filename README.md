@@ -1,5 +1,4 @@
-# Unreal Marketplace Version
-#### Marketplace rules don't allow blueprints as free assets, so the MP version price is set to $5
+
 #### https://www.unrealengine.com/marketplace/en-US/product/event-driven-hit-trace-system
 #### Discord Support: https://discord.gg/FrBMHSJGkM
 
